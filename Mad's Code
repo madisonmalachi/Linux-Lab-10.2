@@ -1,0 +1,3 @@
+git remote add origin https://github.com/madisonmalachi/Linux-Lab-10.2.git
+git branch -M origin
+git push -u origin main
